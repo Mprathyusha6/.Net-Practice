@@ -1,0 +1,14 @@
+E:\E Drive data\Projects\DotNet\consoleApp-Practice\Jala\Jala\bin\Debug\netcoreapp3.1\Jala.exe
+E:\E Drive data\Projects\DotNet\consoleApp-Practice\Jala\Jala\bin\Debug\netcoreapp3.1\Jala.deps.json
+E:\E Drive data\Projects\DotNet\consoleApp-Practice\Jala\Jala\bin\Debug\netcoreapp3.1\Jala.runtimeconfig.json
+E:\E Drive data\Projects\DotNet\consoleApp-Practice\Jala\Jala\bin\Debug\netcoreapp3.1\Jala.runtimeconfig.dev.json
+E:\E Drive data\Projects\DotNet\consoleApp-Practice\Jala\Jala\bin\Debug\netcoreapp3.1\Jala.dll
+E:\E Drive data\Projects\DotNet\consoleApp-Practice\Jala\Jala\bin\Debug\netcoreapp3.1\Jala.pdb
+E:\E Drive data\Projects\DotNet\consoleApp-Practice\Jala\Jala\obj\Debug\netcoreapp3.1\Jala.csproj.AssemblyReference.cache
+E:\E Drive data\Projects\DotNet\consoleApp-Practice\Jala\Jala\obj\Debug\netcoreapp3.1\Jala.GeneratedMSBuildEditorConfig.editorconfig
+E:\E Drive data\Projects\DotNet\consoleApp-Practice\Jala\Jala\obj\Debug\netcoreapp3.1\Jala.AssemblyInfoInputs.cache
+E:\E Drive data\Projects\DotNet\consoleApp-Practice\Jala\Jala\obj\Debug\netcoreapp3.1\Jala.AssemblyInfo.cs
+E:\E Drive data\Projects\DotNet\consoleApp-Practice\Jala\Jala\obj\Debug\netcoreapp3.1\Jala.csproj.CoreCompileInputs.cache
+E:\E Drive data\Projects\DotNet\consoleApp-Practice\Jala\Jala\obj\Debug\netcoreapp3.1\Jala.dll
+E:\E Drive data\Projects\DotNet\consoleApp-Practice\Jala\Jala\obj\Debug\netcoreapp3.1\Jala.pdb
+E:\E Drive data\Projects\DotNet\consoleApp-Practice\Jala\Jala\obj\Debug\netcoreapp3.1\Jala.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Majji\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Majji\\.nuget\\packages"
+    ]
+  }
+}
