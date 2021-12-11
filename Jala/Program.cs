@@ -29,6 +29,14 @@ namespace Jala
             int value2 = 4;
             Console.WriteLine("sum of {0} and {1} is {2}", value1, value2, obj.add(value2, value1));
             #endregion
+            #region Built-in-Data-Types
+            Built_In_Data_Types obj1 = new Built_In_Data_Types();
+            obj1.boolValue();
+            obj1.doubleToDecimal();
+            obj1.ArthmeticOperation();
+            obj1.Reverse(5);
+            obj1.checkChar();
+            #endregion
         }
     }
 }
